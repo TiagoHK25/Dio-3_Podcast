@@ -13,7 +13,7 @@ Usei o "ChatGPT" para escrever e revisar o roteiro do do podcast. O CAPCUT foi u
 ## Resultados
 O podcast fala sobre em que a IA pode ajudar nas carreiras atuais e futuras.
 
-(https://github.com/TiagoHK25/Dio_1/blob/main/Dio%201.mp4)
+([https://github.com/TiagoHK25/Dio-3_Podcast/blob/main/podcast%20sound.mp3])
 
 ## Reflexão
 Cada vez mais evoluindo neste assunto de IA. Muito bom.
